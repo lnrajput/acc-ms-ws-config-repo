@@ -1,6 +1,6 @@
 ---      
 server:
-  port: 8882
+  port: 0
 #setting logging levels
 logging:
   level:
