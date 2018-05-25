@@ -30,3 +30,7 @@ spring:
       binders:
         kafka:
           default-candidate: true
+  security:
+    user:
+      name: test
+      password: test           
