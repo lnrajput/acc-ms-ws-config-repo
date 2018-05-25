@@ -1,6 +1,6 @@
 ---      
 server:
-  port: 8881
+  port: 8080
 #setting logging levels
 logging:
   level:
