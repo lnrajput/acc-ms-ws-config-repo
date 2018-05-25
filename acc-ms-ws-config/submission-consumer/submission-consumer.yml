@@ -33,4 +33,10 @@ spring:
   security:
     user:
       name: test
-      password: test           
+      password: test
+            
+eureka:
+  instance:
+    non-secure-port-enabled: true
+    non-secure-port: 80
+    secure-port-enabled: false                 
